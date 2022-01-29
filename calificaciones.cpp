@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-
+//prueba de ejemplo
 typedef struct Nodo_ca{
 	int dato;
 	struct Nodo_ca *sig;
